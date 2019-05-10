@@ -8,7 +8,7 @@ excerpt: Here is a list of terms you may encounter Zilliqa or any other service 
 
 # Common terms in Crypto community
 
-**Here is a list of terms you may encounter Zilliqa or any other service on daily basis.**
+**Here is a list of terms you may encounter in Zilliqa or any other service on daily basis.**
 
 ### Wallet
 
